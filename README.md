@@ -1,0 +1,2 @@
+# whitepaper
+Proof of Meow
